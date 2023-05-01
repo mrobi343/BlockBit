@@ -39,9 +39,9 @@ t2.start()'''
 
 
 # Connect to Scratch
-session = scratch3.Session(os.environ["SESSION"], username="yippymishy")
-conn = session.connect_cloud(project_id="669020072")
-events = scratch3.CloudEvents("669020072")
+session = scratch3.Session(os.environ["SESSION"], username="-penguinarmy-")
+conn = session.connect_cloud(project_id="843951476")
+events = scratch3.CloudEvents("843951476/")
 
 
 # Definitions
